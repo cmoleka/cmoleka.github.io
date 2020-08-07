@@ -1,0 +1,25 @@
+{
+    "site": {
+        "title": "CMS: Welcome to my personal website.",
+        "logoUrl": "https://itrawsorigin.s3.ca-central-1.amazonaws.com/cms2020assets/cms-logo-white%404x.png",
+        "navigation": [
+            {
+                "name": "contact",
+                "url": "mailto:me@carlomoleka.com"
+            }
+        ],
+        "footer": "Nothing to see beyond here mate."
+    },
+    "content": [
+        {
+            "title": "Cover your page.",
+            "description": "Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own",
+            "externalLinks": [
+                {
+                    "title": "Learn more",
+                    "url": "#"
+                }
+            ]
+        }
+    ]
+}
